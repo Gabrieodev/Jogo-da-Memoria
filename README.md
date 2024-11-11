@@ -4,7 +4,7 @@
 
 Um divertido jogo da memória com emojis! Encontre todos os pares para vencer o jogo. Ao clicar em cada carta, ela vira para revelar um emoji. Tente encontrar todos os pares o mais rápido possível!
 
-**👉 [Jogue agora!](link_para_o_jogo)**
+**👉 [Jogue agora!](https://gabrieodev.github.io/Jogo-da-Memoria/)**
 
 ## 🚀 Como Jogar
 
